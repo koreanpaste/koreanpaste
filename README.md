@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=checkered&color=auto&height=300&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Han-gyeol&fontSize=50)
-<h1 align="center">Hi 👋, I'm Han-gyeol</h1>
 <h3 align="center">개발자를 꿈꾸며 한 걸음씩 성장하고 있는 학생입니다.</h3>
 
 - 🔭 I’m currently working on **가천대학교 인공지능학과**

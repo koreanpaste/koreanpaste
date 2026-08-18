@@ -48,11 +48,3 @@
 
 <br>
 
-## 📚 Studying
-
-```text
-Spring Boot
-Docker
-Linux
-Kubernetes
-MLOps

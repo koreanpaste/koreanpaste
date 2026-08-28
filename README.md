@@ -18,7 +18,7 @@
 - Spring Boot
 - Java
 - Docker
-- Linux
+
 
 <br>
 

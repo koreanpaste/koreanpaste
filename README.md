@@ -43,7 +43,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </p>
-
+### AI / LLM
+<p align="left">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0066CC?style=for-the-badge" height="30" alt="RAG"/>
+</p>
 
 <br>
 

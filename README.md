@@ -44,10 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-### AI / LLM
-<p align="left">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>
-</p>
 
 <br>
 
